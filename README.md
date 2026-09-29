@@ -1,7 +1,7 @@
 # CST8915 Lab 1: Algonquin Pet Store on Azure VM
 
-**Student Name**: [Your Name]
-**Student ID**: [Your Student ID]
+**Student Name**: Eric Tieu
+**Student ID**: 041273376
 **Course**: CST8915 Full-stack Cloud-native Development
 **Semester**: Fall 2026
 
